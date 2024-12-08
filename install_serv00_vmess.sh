@@ -16,7 +16,7 @@ USERNAME=$(whoami)
 HOSTNAME=$(hostname)
 
 #export UUID=${UUID:-'d36c4d9f-31c4-45f1-8c64-102a6142001e'}
-UUID=${1:-'d36c4d9f-31c4-45f1-8c64-102a6142001e'}
+UUID=${1:-'0f01f4dc-8f5a-4b68-a800-cb1243f328af'}
 export UUID
 echo "Using UUID: $UUID"
 
